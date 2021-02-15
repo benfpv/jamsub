@@ -18,17 +18,4 @@ import os
 import shutil
 import csv
 
-a = "Hello"
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-
-b = "oi"
-=======
-b = 22.2
-c = "cat"
-d = 'duck'
->>>>>>> Stashed changes
-=======
-b = 22.2
-c = "cat"
->>>>>>> d96ac4b63196d4549868dac94ce62d7edfdedadb
+wooooooooooo
