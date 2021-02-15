@@ -19,5 +19,5 @@ import shutil
 import csv
 
 a = "Hello"
-
-b = "oi"
+b = 22.2
+c = "cat"
