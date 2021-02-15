@@ -18,9 +18,4 @@ import os
 import shutil
 import csv
 
-wooooooooooo
-
-"Ben@FAPtv"
-
-EJENOFUWIFQUEIUIQEWBGIEWBUGN
-YESSSSSSSSSS
+# The first real line
